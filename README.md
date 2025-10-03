@@ -26,7 +26,7 @@
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/username/tools-website.git
+git clone git@github.com:Rayns15/django-tools-website.git
 ```
 2. Navigate to the directory:
 ```
