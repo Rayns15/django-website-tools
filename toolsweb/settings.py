@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["toolify.up.railway.app", '127.0.0.1', 'localhost']
 
-CSRF_TRUSTED_ORIGINS = ['https://toolify.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://toolify.up.railway.app','http://localhost:8000']
 
 CORS_ORIGIN_WHITELIST = [
 'https://toolify.up.railway.app'
