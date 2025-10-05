@@ -78,12 +78,12 @@ body{
     border: 2px solid #203145;
 }
 
-.dark-mode .emanuel-credits{
+.dark-mode .ashish-credits {
     background-color: #203145;
     border: 2px solid #253850;
 }
 
-.dark-mode .emanuel-credits i {
+.dark-mode .ashish-credits i {
     color: #fff;
 }
 
@@ -1293,7 +1293,7 @@ input:checked + .slider:before {
     background-color: #f6f6f6;
   }
   
-.emanuel-credits {
+.ashish-credits {
     background-color: #fff;
     border: 2px solid #e7e9eb;
     font-size: smaller;
@@ -1310,7 +1310,7 @@ input:checked + .slider:before {
     right: 1rem;
 }
 
-.emanuel-credits i {
+.ashish-credits i {
     color: #3760d4
 }
 
