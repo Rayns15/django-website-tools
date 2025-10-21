@@ -9,7 +9,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Introduction
-**"Toolify"** website provides a collection of useful online tools that can help improve productivity and simplify various tasks. From text and image editing to password generation and unit conversion, this website offers a range of simple yet powerful tools that can be accessed from any device with an internet connection.
+**"The Tool Hub"** is your all-in-one suite of simple, powerful online tools designed to boost productivity. Access utilities for text editing, image manipulation, password generation, unit conversion, and more—all from any internet-connected device.
 
 ![toolify](https://user-images.githubusercontent.com/106135144/227856775-fe65f579-ac18-4923-9f1b-c1848d03b508.png)
 
@@ -26,7 +26,7 @@
 ## Installation
 1. Clone the repository:
 ```
-git clone git@github.com:Rayns15/django-tools-website.git
+git clone git@github.com:Rayns15/django-website-tools.git
 ```
 2. Navigate to the directory:
 ```
