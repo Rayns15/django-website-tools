@@ -1,4 +1,4 @@
-# Toolify - A Django Tools Website
+# The Tool Hub - A Django Tools Website
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -11,9 +11,9 @@
 ## Introduction
 **"The Tool Hub"** is your all-in-one suite of simple, powerful online tools designed to boost productivity. Access utilities for text editing, image manipulation, password generation, unit conversion, and more—all from any internet-connected device.
 
-![toolify](https://user-images.githubusercontent.com/106135144/227856775-fe65f579-ac18-4923-9f1b-c1848d03b508.png)
+![The-Tool-Hub](https://github.com/Rayns15/django-website-tools/blob/6fcddc831833a78ead63a2075f0aa1bb1db2a5d3/static/img/The%20Tool%20Hub%20light.jpg)
 
-![toolify-dark](https://user-images.githubusercontent.com/106135144/227857132-44b8a1f5-dc3c-458d-918a-2a4cb6adc75d.png)
+![The-Tool-Hub-dark](https://github.com/Rayns15/django-website-tools/blob/6fcddc831833a78ead63a2075f0aa1bb1db2a5d3/static/img/The%20Tool%20Hub%20dark.jpg)
 
 ## Table of Content
   * [Introduction](#introduction)
@@ -64,7 +64,7 @@ python manage.py runserver
 
 ## Website Screenshots
 
-![tools](https://user-images.githubusercontent.com/106135144/227857694-5f364a3d-9219-499d-ac5a-6fc23e756b8e.png)
+![tools](https://github.com/Rayns15/django-website-tools/blob/6fcddc831833a78ead63a2075f0aa1bb1db2a5d3/static/img/The%20Tool%20Hub%20screenshot.jpg)
 
 ## Conclusion
 This project is a web-based productivity tool website developed using Python, HTML, CSS, and JavaScript. It includes features such as a CSS Minifier, PNG to WebP convertor, a password generator and so on all designed to help users be more productive.
